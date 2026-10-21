@@ -1,8 +1,8 @@
 {
-  "name": "backifex",
+  "name": "backrelay",
   "version": "1.0.0",
   "private": true,
-  "description": "Backifex ($BKFX) - The Engine of Backers on X & Solana. Back anyone on X, earn liquid fees in SOL.",
+  "description": "Backrelay ($BRLY) - The Relayer of Backers on X & Solana. Back anyone on X, earn liquid fees in SOL.",
   "scripts": {
     "build": "node build.js",
     "start": "npx serve ."

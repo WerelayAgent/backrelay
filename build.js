@@ -52,4 +52,4 @@ for (const item of items) {
   }
 }
 
-console.log('Backifex build successfully generated for Vercel Output API v3!');
+console.log('Backrelay build successfully generated for Vercel Output API v3!');
